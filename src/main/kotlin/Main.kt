@@ -1,8 +1,6 @@
-package softserve.academy
+package my.projects
 
 fun main() {
-    val a: A = A()
+    println("Hello World!")
 }
-
-class A
 
